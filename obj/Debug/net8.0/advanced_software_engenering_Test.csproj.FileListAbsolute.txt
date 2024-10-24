@@ -1,0 +1,14 @@
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.AssemblyInfoInputs.cache
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.AssemblyInfo.cs
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.csproj.CoreCompileInputs.cache
+C:\Users\yarne\advanced_software_engenering_Test\bin\Debug\net8.0\advanced_software_engenering_Test.exe
+C:\Users\yarne\advanced_software_engenering_Test\bin\Debug\net8.0\advanced_software_engenering_Test.deps.json
+C:\Users\yarne\advanced_software_engenering_Test\bin\Debug\net8.0\advanced_software_engenering_Test.runtimeconfig.json
+C:\Users\yarne\advanced_software_engenering_Test\bin\Debug\net8.0\advanced_software_engenering_Test.dll
+C:\Users\yarne\advanced_software_engenering_Test\bin\Debug\net8.0\advanced_software_engenering_Test.pdb
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.dll
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\refint\advanced_software_engenering_Test.dll
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.pdb
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\advanced_software_engenering_Test.genruntimeconfig.cache
+C:\Users\yarne\advanced_software_engenering_Test\obj\Debug\net8.0\ref\advanced_software_engenering_Test.dll

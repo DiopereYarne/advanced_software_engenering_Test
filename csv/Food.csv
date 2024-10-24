@@ -1,0 +1,11 @@
+ID;Name;Price;Weight;IsSpicy;IsVegan
+1;Pizza Margherita;12.99;0.5;false;false
+2;Spicy Chicken Wings;9.99;0.3;true;false
+3;Vegan Salad;8.50;0.25;false;true
+4;Cheeseburger;11.50;0.4;false;false
+5;Tofu Stir Fry;10.99;0.35;true;true
+6;Vegetable Soup;7.50;0.4;false;true
+7;Beef Tacos;13.99;0.35;true;false
+8;Grilled Salmon;15.99;0.3;false;false
+9;Mushroom Risotto;11.99;0.45;false;true
+10;Chicken Caesar Salad;10.50;0.3;false;false

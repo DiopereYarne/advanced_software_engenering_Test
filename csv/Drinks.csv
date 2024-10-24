@@ -1,0 +1,11 @@
+ID;Name;Price;Volume;ContainsAlcohol
+1;Cola;2.50;330;false
+2;Beer;4.99;500;true
+3;Orange Juice;3.25;250;false
+4;Mojito;7.50;200;true
+5;Green Smoothie;5.99;400;false
+6;Iced Tea;2.99;350;false
+7;Margarita;8.50;250;true
+8;Latte;3.99;300;false
+9;Red Wine;6.50;175;true
+10;Mineral Water;1.99;500;false
